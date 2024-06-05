@@ -18,8 +18,8 @@ APIs can be internal in the form of Database APIs, these allow interconnected ar
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-[]
+[Understanding the basic theory was not difficult, but feeling overwhelmed with all the available options of APIs and how each has their own dialect and ways of doing things can be intense. At least the basis for how RESTful works remains the same. It will take some time and practice to know what APIs to use for what purposes.]
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
-[Your answer goes here]
+[I feel confident in the theory on what APIs are and What they can achieve. Im still uncertain about implementation etc, as there are so many ways to implement/maintain APIs. For now I will continue with added videos and reading just to grasp the implementation of these APIs better, as most API follow along and tutorials assume you know to a degree some pivotal skills in JS etc, which I feel I have very limited knowledge on at this moment.]
